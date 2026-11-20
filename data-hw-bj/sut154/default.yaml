@@ -1,0 +1,8 @@
+device_ip: 10.12.239.154
+node_id: sm4pfe
+maas_user: ubuntu
+agent_name: sut154
+node_name: sut154 
+reset_efi: true
+env:
+  DEVICE_IP: 10.12.239.154

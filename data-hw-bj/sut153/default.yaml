@@ -1,0 +1,8 @@
+device_ip: 10.12.239.153
+node_id: pcwpa4
+maas_user: ubuntu
+agent_name: sut153
+node_name: sut153 
+reset_efi: true
+env:
+  DEVICE_IP: 10.12.239.153
