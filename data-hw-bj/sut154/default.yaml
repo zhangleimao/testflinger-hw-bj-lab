@@ -1,5 +1,5 @@
 device_ip: 10.12.239.154
-node_id: sm4pfe
+node_id: spcwpa4
 maas_user: ubuntu
 agent_name: sut154
 node_name: sut154 
