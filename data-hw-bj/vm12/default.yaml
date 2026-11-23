@@ -1,0 +1,8 @@
+device_ip: 10.12.239.212
+node_id: 8btct8
+maas_user: ubuntu
+agent_name: vm12
+node_name: vm12
+reset_efi: false
+env:
+  DEVICE_IP: 10.12.239.212
