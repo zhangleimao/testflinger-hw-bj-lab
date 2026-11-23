@@ -1,0 +1,8 @@
+device_ip: 10.12.239.211
+node_id: xgmxb6
+maas_user: ubuntu
+agent_name: vm11
+node_name: vm11
+reset_efi: false
+env:
+  DEVICE_IP: 10.12.239.211
